@@ -5,4 +5,6 @@ Various functions and codes will be reconfigured
 # reference
 [dream coding academy](https://academy.dream-coding.com/)
 
+# Game play
 
+[carrot game play](https://kimtaejin3.github.io/Carrot_pick_game/)
