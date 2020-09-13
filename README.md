@@ -1,2 +1,7 @@
-# Carrot_pick_game
-a game made using JavaScript
+# carrot pick game
+![carrot](./screenshot.PNG)
+
+# reference
+[dreamcoding](https://academy.dream-coding.com/).
+
+
