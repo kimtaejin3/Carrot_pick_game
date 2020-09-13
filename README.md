@@ -2,6 +2,6 @@
 ![carrot](./screenshot.PNG)
 
 # reference
-[dreamcoding](https://academy.dream-coding.com/).
+[dream coding academy](https://academy.dream-coding.com/)
 
 
